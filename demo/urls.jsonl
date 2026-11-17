@@ -1,0 +1,7 @@
+https://Example.COM:443/a/../b?z=1&y=2#frag
+/b?y=2&z=1
+https://example.com:443/a/../b?y=2&z=1
+https://user:pw@example.com/a%2Fb?y=2&z=1
+https://user:pw@example.com:443/a%2Fb?y=2&z=1
+https://example.com/b/?z=&y=2
+https://EXAMPLE.com:443/b/?y=2&z
